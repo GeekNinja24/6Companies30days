@@ -42,3 +42,6 @@ Given a string, Your task is to complete the function encode that returns the ru
 
 
 ## Accepted
+![Runlength Encoding](https://user-images.githubusercontent.com/72194471/210827973-c5541f0f-4988-4c8c-b6c9-f2adce8342c7.PNG)
+
+
