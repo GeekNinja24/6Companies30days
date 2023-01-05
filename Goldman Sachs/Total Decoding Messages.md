@@ -59,3 +59,4 @@ Note: An empty digit sequence is considered to have one decoding. It may be assu
 
 
 ## Accepted
+![Total Decoding Messages](https://user-images.githubusercontent.com/72194471/210834523-5ba26e0c-13e0-49c9-809d-d862a57f3380.PNG)
