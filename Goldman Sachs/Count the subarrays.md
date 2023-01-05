@@ -38,3 +38,4 @@ Given an array of positive numbers, the task is to find the number of possible c
 
 
 ## Accepted
+![count the subarrays](https://user-images.githubusercontent.com/72194471/210826853-da9c6f8d-561b-4e0e-8eeb-403019ce17b2.PNG)
