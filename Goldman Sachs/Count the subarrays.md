@@ -1,5 +1,5 @@
 
-# Count the subarrays having product less than k
+# Q3. Count the subarrays having product less than k
 Given an array of positive numbers, the task is to find the number of possible contiguous subarrays having product less than a given number k.
 ## Sample Input
     4 10
