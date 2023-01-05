@@ -38,3 +38,4 @@ Note: It may be assumed that the rectangles are parallel to the coordinate axis.
 
 
 ## Accepted
+[Overlapping Rectangles.md](https://github.com/GeekNinja24/6Companies30days/files/10353568/Overlapping.Rectangles.md)
