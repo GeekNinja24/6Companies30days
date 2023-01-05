@@ -44,3 +44,4 @@ Given an array of positive integers nums and a positive integer target, return t
 
 
 ## Accepted
+![Minimum Size Subarray sum](https://user-images.githubusercontent.com/72194471/210839950-3bff8fee-a6d6-427d-98bf-556eaa31b513.PNG)
