@@ -83,3 +83,5 @@ encoded string: 3[a3[b]1[ab]]
 
 
 ## Accepted
+![Decode the String](https://user-images.githubusercontent.com/72194471/210839082-2540ee37-44be-4d22-9bdc-0539196174c4.PNG)
+
