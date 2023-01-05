@@ -53,3 +53,5 @@ Given an unsorted array Arr of size N of positive integers. One number 'A' from 
 
 
 ## Accepted
+![Find Missing And Repeating](https://user-images.githubusercontent.com/72194471/210838378-c3306c29-0541-4f17-8087-0b3dc2196bdc.PNG)
+
