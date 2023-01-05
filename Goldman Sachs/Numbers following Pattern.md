@@ -56,3 +56,4 @@ Digits from 1-9 and digits can't repeat.
 
 
 ## Accepted
+![Numbers following Pattern](https://user-images.githubusercontent.com/72194471/210835494-55aff87d-c594-441b-94a2-9981947e1b28.PNG)
