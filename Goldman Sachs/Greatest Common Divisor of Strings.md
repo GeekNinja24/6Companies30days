@@ -57,3 +57,4 @@ Given two strings str1 and str2, return the largest string x such that x divides
 
 
 ## Accepted
+![GCD](https://user-images.githubusercontent.com/72194471/210832091-f35b4499-c435-40e6-904f-eb88b135dc53.PNG)
