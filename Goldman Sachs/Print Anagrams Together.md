@@ -40,3 +40,4 @@ Given an array of strings, return all groups of strings that are anagrams. The g
 
 
 ## Accepted
+[Print Anagrams Together.md](https://github.com/GeekNinja24/6Companies30days/files/10353323/Print.Anagrams.Together.md)
