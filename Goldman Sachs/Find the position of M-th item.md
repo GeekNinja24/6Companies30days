@@ -28,3 +28,4 @@ M items are to be delivered in a circle of size N. Find the position where the M
 
 
 ## Accepted
+![Find the position of M-th item](https://user-images.githubusercontent.com/72194471/210833533-6028d1f6-fe47-4efc-8284-089e09701160.PNG)
