@@ -44,3 +44,5 @@ where k is increment in number of squares from (N-1).(N-1) to N.N chessboard
 
 ## Accepted
 
+![Find the total no of squares](https://user-images.githubusercontent.com/72194471/210723220-0f43180e-ce5a-4f32-baba-14a17f77a98b.PNG)
+
