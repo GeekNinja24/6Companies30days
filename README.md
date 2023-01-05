@@ -1,2 +1,3 @@
-# 6Companies30days
-Solutions for Top 90-100 recent questions by most big tech companies
+#ReviseWithArsh : #6Companies30Days
+A challenge to solve coding questions of top 6 companies in 30 days. An initiative started by Arsh Goyal. 
+In this repo I am uploading my solutions for 6Companies30Days Challenge initiative by @Arsh Goyal
