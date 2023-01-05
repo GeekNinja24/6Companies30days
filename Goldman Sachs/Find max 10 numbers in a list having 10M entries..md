@@ -51,3 +51,4 @@ Given an array of N positive integers, print k largest elements from the array.
 
 
 ## Accepted
+![Find max 10 numbers in a list having 10M entries](https://user-images.githubusercontent.com/72194471/210837198-59d81fe8-fbf0-489f-ab6e-25305066235f.PNG)
