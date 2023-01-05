@@ -44,3 +44,4 @@ Given an array of integers and a number k, write a function that returns true if
 
 
 ## Accepted
+![Array Pair Sum Divisibility Problem](https://user-images.githubusercontent.com/72194471/210840922-8c58abd1-153a-4313-8643-dfd602f72ec8.PNG)
